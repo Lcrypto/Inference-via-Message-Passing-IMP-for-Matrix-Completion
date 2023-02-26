@@ -1,5 +1,5 @@
 # Inference-via-Message-Passing-IMP-for-Matrix-Completion
-Tool for reproduce  Figure 3  Matrix Completion (Recomend System) using LDPC code from article  B. -H. Kim, A. Yedla and H. D. Pfister, "IMP: A message-passing algorithm for matrix completion," 2010 6th International Symposium on Turbo Codes & Iterative Information Processing, Brest, France, 2010, pp. 462-466, doi: 10.1109/ISTC.2010.5613803.
+Tool for reproduce  Figure 3  Matrix Completion (Recomend System) using LDPC code Message Passing from article  B. -H. Kim, A. Yedla and H. D. Pfister, "IMP: A message-passing algorithm for matrix completion," 2010 6th International Symposium on Turbo Codes & Iterative Information Processing, Brest, France, 2010, pp. 462-466, doi: 10.1109/ISTC.2010.5613803.
 
 
 https://arxiv.org/abs/1007.0481
